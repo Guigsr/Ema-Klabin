@@ -1,2 +1,0 @@
-# Ema-Klabin
-Jogo museu
